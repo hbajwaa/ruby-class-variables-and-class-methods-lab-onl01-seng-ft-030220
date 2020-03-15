@@ -18,7 +18,7 @@ class Song
   #   @genre
   # end
   
-  def self.count
+  def self.countt
     @@count
   end
   
